@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex03.ConsoleUI.GarageManager">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAgAAAAAAAAAAAAAAAQgAECACCACAgI=</HashCode>
+      <FileName>GarageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03.ConsoleUI.GarageUI">
+    <Position X="6.75" Y="2.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAEAIBAABAEAAAAAAJBAgAAAAgABCIAAEAFABE=</HashCode>
+      <FileName>GarageUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03.ConsoleUI.Program">
+    <Position X="3.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ex03.ConsoleUI.eMenuOptions">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAQAAAAAAAAIAAAAAAAAAAAIIAAAAAAAgAA=</HashCode>
+      <FileName>GarageUI.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
