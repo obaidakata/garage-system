@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using Ex03.GarageLogic;
-using Ex03.GarageLogic.Enums;
+using GarageLogic;
+using GarageLogic.Enums;
 
-namespace Ex03.ConsoleUI
+namespace ConsoleUI
 {
     public class GarageUI
     {

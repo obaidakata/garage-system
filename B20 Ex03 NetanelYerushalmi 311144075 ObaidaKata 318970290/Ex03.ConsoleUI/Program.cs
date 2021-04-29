@@ -1,8 +1,8 @@
-﻿namespace Ex03.ConsoleUI
+﻿namespace ConsoleUI
 {
     public class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
             GarageManager manger = new GarageManager();
 

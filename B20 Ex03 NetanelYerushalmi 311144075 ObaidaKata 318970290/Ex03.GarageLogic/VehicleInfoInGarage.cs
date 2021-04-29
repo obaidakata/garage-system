@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ex03.GarageLogic.Enums;
+using GarageLogic.Enums;
 
-namespace Ex03.GarageLogic
+namespace GarageLogic
 {
     internal class VehicleInfoInGarage
     {

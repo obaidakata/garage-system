@@ -1,7 +1,7 @@
 ﻿using System;
-using Ex03.GarageLogic.Enums;
+using GarageLogic.Enums;
 
-namespace Ex03.GarageLogic.Tanks
+namespace GarageLogic.Tanks
 {
     public abstract class Tank
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ex03.GarageLogic;
-using Ex03.GarageLogic.Enums;
-using Ex03.GarageLogic.Exceptions;
+using GarageLogic;
+using GarageLogic.Enums;
+using GarageLogic.Exceptions;
 
-namespace Ex03.ConsoleUI
+namespace ConsoleUI
 {
     public class GarageManager
     {

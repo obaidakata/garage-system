@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Ex03.GarageLogic.Exceptions;
-using Ex03.GarageLogic.Enums;
-using Ex03.GarageLogic.Tanks;
+using GarageLogic.Enums;
+using GarageLogic.Exceptions;
+using GarageLogic.Tanks;
 
-namespace Ex03.GarageLogic
+namespace GarageLogic
 {
     public class Garage
     {

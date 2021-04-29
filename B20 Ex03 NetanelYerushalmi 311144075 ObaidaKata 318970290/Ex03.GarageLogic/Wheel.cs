@@ -1,6 +1,6 @@
-﻿using Ex03.GarageLogic.Exceptions;
+﻿using GarageLogic.Exceptions;
 
-namespace Ex03.GarageLogic
+namespace GarageLogic
 {
     public class Wheel
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Ex03.GarageLogic.Exceptions
+namespace GarageLogic.Exceptions
 {
     public class LicenseNumberNotFoundException : Exception
     {

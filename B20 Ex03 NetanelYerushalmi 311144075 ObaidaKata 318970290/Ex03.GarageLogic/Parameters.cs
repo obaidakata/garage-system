@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ex03.GarageLogic.Exceptions;
+using GarageLogic.Exceptions;
 
-namespace Ex03.GarageLogic
+namespace GarageLogic
 {
     public partial class Parameters
     {

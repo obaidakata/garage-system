@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ex03.GarageLogic.Enums;
-using Ex03.GarageLogic.Tanks;
+using GarageLogic.Enums;
+using GarageLogic.Tanks;
 
-namespace Ex03.GarageLogic
+namespace GarageLogic
 {
     public class Car : Vehicle
     {

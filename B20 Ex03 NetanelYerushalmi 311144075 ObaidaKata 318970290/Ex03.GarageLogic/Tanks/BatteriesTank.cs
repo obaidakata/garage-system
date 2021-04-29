@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ex03.GarageLogic.Tanks
+namespace GarageLogic.Tanks
 {
     public class BatteriesTank : Tank
     {
