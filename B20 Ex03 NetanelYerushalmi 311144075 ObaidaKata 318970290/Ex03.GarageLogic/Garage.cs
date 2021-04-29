@@ -16,7 +16,7 @@ namespace GarageLogic
             r_VehiclesInfo = new Dictionary<string, VehicleInfoInGarage>();
         }
 
-        public void AddNewCar(Vehicle i_Vehicle, Owner i_Owner)
+        public void AddNewCar(Vehicle i_Vehicle, VehicleOwner i_VehicleOwner)
         {
             string licenseNumber = i_Vehicle.LicenseNumber;
             bool isExists = r_VehiclesInfo.ContainsKey(licenseNumber);
@@ -30,7 +30,7 @@ namespace GarageLogic
             }
             else
             {
-                VehicleInfoInGarage newVehicle = new VehicleInfoInGarage(i_Owner, i_Vehicle);
+                VehicleInfoInGarage newVehicle = new VehicleInfoInGarage(i_VehicleOwner, i_Vehicle);
                 r_VehiclesInfo.Add(licenseNumber, newVehicle);
             }
         }

@@ -1,11 +1,11 @@
 ﻿namespace GarageLogic
 {
-    public struct Owner
+    public struct VehicleOwner
     {
         private string m_OwnerName;
         private string m_PhoneNumber;
 
-        public Owner(string i_OwnerName, string i_PhoneNumber)
+        public VehicleOwner(string i_OwnerName, string i_PhoneNumber)
         {
             m_OwnerName = i_OwnerName;
             m_PhoneNumber = i_PhoneNumber;

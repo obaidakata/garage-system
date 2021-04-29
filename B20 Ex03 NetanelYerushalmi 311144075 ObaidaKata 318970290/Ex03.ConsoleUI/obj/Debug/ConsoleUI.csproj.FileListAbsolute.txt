@@ -1,0 +1,11 @@
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\bin\Debug\GarageLogic.dll.config
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\obaidakata\Source\Repos\obaidakata\garage-system\B20 Ex03 NetanelYerushalmi 311144075 ObaidaKata 318970290\Ex03.ConsoleUI\obj\Debug\ConsoleUI.pdb

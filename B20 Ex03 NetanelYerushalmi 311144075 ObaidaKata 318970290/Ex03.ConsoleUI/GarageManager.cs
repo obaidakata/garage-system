@@ -72,8 +72,8 @@ namespace ConsoleUI
 			string licenseNumber;
             r_ConsoleUI.GetLicenseNumber(out licenseNumber);
 
-            Owner owner;
-            r_ConsoleUI.GetOwner(out owner);
+            VehicleOwner vehicleOwner;
+            r_ConsoleUI.GetOwner(out vehicleOwner);
 
             Vehicle newVehicle = r_VehiclesCreator.CreateNewVehicle(licenseNumber, vehicleType);
             Parameters vehicleParameters = newVehicle.VehicleParameters;
@@ -100,7 +100,7 @@ namespace ConsoleUI
                 }
             }
 
-            r_Garage.AddNewCar(newVehicle, owner);
+            r_Garage.AddNewCar(newVehicle, vehicleOwner);
         }
 
         private void showLicenseNumbers()

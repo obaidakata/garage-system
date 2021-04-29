@@ -97,13 +97,13 @@ namespace ConsoleUI
             return status;
         }
 
-        public void GetOwner(out Owner o_Owner)
+        public void GetOwner(out VehicleOwner i_OVehicleOwner)
         {
-            Console.WriteLine("Insert owner's name: ");
+            Console.WriteLine("Insert vehicleOwner's name: ");
             string ownerName = Console.ReadLine();
-            Console.WriteLine("Insert owner's phone number: ");
+            Console.WriteLine("Insert vehicleOwner's phone number: ");
             string ownerPhoneNumber = Console.ReadLine();
-            o_Owner = new Owner(ownerName, ownerPhoneNumber);
+            i_OVehicleOwner = new VehicleOwner(ownerName, ownerPhoneNumber);
             Console.Clear();
         }
 

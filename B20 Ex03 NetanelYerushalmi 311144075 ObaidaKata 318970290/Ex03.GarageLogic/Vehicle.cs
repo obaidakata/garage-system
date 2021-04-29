@@ -1,8 +1,7 @@
-﻿using System;
-using System.Text;
-using GarageLogic.Enums;
-using GarageLogic.Exceptions;
+﻿using GarageLogic.Exceptions;
 using GarageLogic.Tanks;
+using System;
+using System.Text;
 
 namespace GarageLogic
 {

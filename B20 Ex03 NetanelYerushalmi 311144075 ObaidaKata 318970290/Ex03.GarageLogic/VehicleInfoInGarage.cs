@@ -7,12 +7,12 @@ namespace GarageLogic
     internal class VehicleInfoInGarage
     {
         private readonly Vehicle r_Vehicle;
-        private Owner m_Owner;
+        private VehicleOwner m_VehicleOwner;
         private eVehicleStatus m_Status;
         
-        public VehicleInfoInGarage(Owner i_Owner, Vehicle i_Vehicle)
+        public VehicleInfoInGarage(VehicleOwner i_VehicleOwner, Vehicle i_Vehicle)
         {
-            m_Owner = i_Owner;
+            m_VehicleOwner = i_VehicleOwner;
             r_Vehicle = i_Vehicle;
             m_Status = eVehicleStatus.InRepair;
         }
@@ -51,7 +51,7 @@ namespace GarageLogic
             List<string> vehicleData = new List<string>();
             vehicleData.Add(string.Format("License number: {0}", r_Vehicle.LicenseNumber));
             vehicleData.Add(string.Format("Car model: {0}", r_Vehicle.Model));
-            vehicleData.Add(string.Format("Owner name: {0}, owner phone number: {1}", m_Owner.Name, m_Owner.PhoneNumber));
+            vehicleData.Add(string.Format("VehicleOwner name: {0}, vehicleOwner phone number: {1}", m_VehicleOwner.Name, m_VehicleOwner.PhoneNumber));
             vehicleData.Add(string.Format("Car status: {0}", Enum.GetName(typeof(eVehicleStatus), m_Status)));
             vehicleData.Add(string.Format("Wheels status: {0}{1}", Environment.NewLine, r_Vehicle.GetWheelsInfo()));
             vehicleData.Add(string.Format("type of tank: {0}", r_Vehicle.NameOfTank));
